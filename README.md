@@ -1,2 +1,2 @@
-# stoic_quotes_api
+# Stoic quotes API
 Personal site api
