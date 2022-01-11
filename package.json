@@ -1,0 +1,23 @@
+{
+  "name": "stoic_quotes_api",
+  "version": "1.0.0",
+  "description": "Personal site api Writing an array of stoic quotes that I would like to serve for my website through Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincewho/stoic_quotes_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincewho/stoic_quotes_api/issues"
+  },
+  "homepage": "https://github.com/vincewho/stoic_quotes_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
